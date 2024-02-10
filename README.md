@@ -51,4 +51,11 @@ VC Channel at 8 PM for presentations and discussions.
 
 Also, participants using PowerBI can briefly explain approach on what tools they have used to clean and preprocess the data.
 
+**Dataset Details**
+This dataset is on HR analytics
+HR analytics is a data-driven approach to managing people at work. HR analytics, also known as people analytics, workforce analytics, or talent analytics, revolves around analyzing people problems using data to answer critical questions about your organization. This enables better and data-driven decision-making.
+
+Please insure you clean your dataset and then continue with Data Analysis, if not, it will give you wrong numbers essentially
+
+
 Best of luck! 🏆
